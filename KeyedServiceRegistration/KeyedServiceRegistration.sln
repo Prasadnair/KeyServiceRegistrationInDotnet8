@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyedServiceRegistration", "KeyedServiceRegistration\KeyedServiceRegistration.csproj", "{E54FFF39-74C8-4DDD-8A67-786778FAC738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54FFF39-74C8-4DDD-8A67-786778FAC738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54FFF39-74C8-4DDD-8A67-786778FAC738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54FFF39-74C8-4DDD-8A67-786778FAC738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54FFF39-74C8-4DDD-8A67-786778FAC738}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7055AB5E-03D1-4DF5-A2F3-18A90ECA743A}
+	EndGlobalSection
+EndGlobal
